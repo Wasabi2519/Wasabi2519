@@ -1,4 +1,5 @@
 ### Howdy 👋
+![](https://lapras.com/public/O777C70.json)
 [![Twitter: maki_saki](https://img.shields.io/twitter/follow/Wasabi2519?style=social)](https://twitter.com/wasabi2519)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
  
